@@ -1,2 +1,1 @@
-proxy links
-multipleurlopen.com/
+https://multipleurlopen.com
